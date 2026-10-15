@@ -1,0 +1,6 @@
+node_modules/
+data/
+.env
+Saved PDFs/
+.DS_Store
+.Rhistory
